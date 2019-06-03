@@ -1,0 +1,21 @@
+1 core0 2
+ 3 core1 2
+ 2 core2 2
+ 4 core0 4
+ 5 core1 4
+ 8 core0 7
+ 7 core1 7
+ 12 core2 7
+ 6 core3 7
+ 11 core4 7
+ 10 core0 8
+ 9 core1 8
+ 13 core2 8
+ 14 core3 8
+ 15 core4 8
+ 17 core0 10
+ 18 core1 10
+ 19 core2 10
+ 16 core3 10
+ 20 core4 10
+ 
